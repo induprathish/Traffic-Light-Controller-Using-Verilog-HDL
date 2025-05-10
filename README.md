@@ -30,7 +30,7 @@ Save and Document Results:
 Capture screenshots of the waveform and save the simulation logs to include in your report.
 
 Verilog Code for Traffic Light Controller
-
+```
 module Traffic_light(clk, rst, light);
   input clk, rst;
   output reg [2:0] light;
@@ -72,7 +72,7 @@ OUTPUT:![Screenshot 2025-05-10 134216](https://github.com/user-attachments/asset
 Testbench for Traffic Light Controller
 
 `timescale 1ns / 1ps
-
+```
 module Traffic_light_tb; 
   reg clk;
   reg rst;
@@ -102,7 +102,7 @@ module Traffic_light_tb;
   end
 
 endmodule
-
+```
 OUTPUT:![Screenshot 2025-05-10 134234](https://github.com/user-attachments/assets/86997cc5-5136-43f9-9abb-60bcc97eb89d)
 
 
