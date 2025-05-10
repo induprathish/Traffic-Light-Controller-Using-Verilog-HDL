@@ -63,7 +63,7 @@ module Traffic_light(clk, rst, light);
     end
   end
 endmodule
-
+```
 OUTPUT:![Screenshot 2025-05-10 134216](https://github.com/user-attachments/assets/ad061391-190f-4fa7-aba9-6b1e1d1fa1e0)
 
 
@@ -101,7 +101,7 @@ module Traffic_light_tb;
   end
 
 endmodule
-
+```
 OUTPUT:![Screenshot 2025-05-10 134234](https://github.com/user-attachments/assets/86997cc5-5136-43f9-9abb-60bcc97eb89d)
 
 
