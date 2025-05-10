@@ -64,7 +64,6 @@ module Traffic_light(clk, rst, light);
     end
   end
 endmodule
-```
 OUTPUT:![Screenshot 2025-05-10 134216](https://github.com/user-attachments/assets/ad061391-190f-4fa7-aba9-6b1e1d1fa1e0)
 
 
